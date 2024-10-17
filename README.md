@@ -27,8 +27,8 @@ Randomized racing behavior for unpredictable outcomes.
 
 Simple and colorful graphical interface using the turtle library.
 
-**📷 Screenshot
-**
+**📷 Screenshot**
+
 ![Screenshot 2024-10-17 130232](https://github.com/user-attachments/assets/84e9e788-8ba9-4d97-9639-bec652280795)
 
 
